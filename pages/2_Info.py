@@ -4,7 +4,7 @@ st.title("Info")
 
 st.markdown(
 """
-This application is an express prototype of a chatbot consultant for clients interested in learning more about BankDhofar's products and services in Kenya. Developed within a span of three days, it serves as a partial and limited demonstration of the capabilities of Large Language Models (LLMs) enriched with contextual knowledge about the financial organization's products and services.
+This application is an express prototype of a chatbot consultant for clients interested in learning more about BankDhofar's products and services. Developed within a span of three days, it serves as a partial and limited demonstration of the capabilities of Large Language Models (LLMs) enriched with contextual knowledge about the financial organization's products and services.
 
 The application's knowledge base was formed using the following sources:
 * https://www.bankdhofar.com/i-want-to
