@@ -1,0 +1,54 @@
+## Bank Dhofar Deposit Rates
+
+**Term Deposit**
+
+RATES AS ON September 2024
+
+**OMR Deposit rates**
+
+**Amount** | **1M** | **3M** | **6M** | **9M** | **12M** | **2Y** | **3Y** | **4Y** | **5Y**
+------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- 
+Bank Dhofar <500k | 2.50 | 2.75 | 3.25 | 3.60 | 4.40 | 4.40 | 4.15 | 4.15 | 4.15
+Bank Dhofar \>500k | 2.60 | 3.00 | 3.35 | 3.75 | 4.50 | 4.50 | 4.25 | 4.25 | 4.25
+
+**USD Deposit rates**
+
+**Amount** | **1M** | **3M** | **6M** | **9M** | **1Y**
+------- | -------- | -------- | -------- | -------- | -------- 
+Bank Dhofar  <50k | 3.00 | 3.25 | 3.50 | 3.75 | 3.85
+Bank Dhofar \>50k | 3.50 | 3.65 | 3.75 | 3.90 | 4.00
+
+
+#### Recurring Deposit Daily, Weekly, Education, Retirement Saving Plan
+
+Rates as on July 01, 2024
+
+**Tenor** | **Education & Retirement Saving Plan** | **Monthly Saving Plan** | **Weekly Saving Plan** | **Daily Saving Plan**
+------- | -------- | -------- | -------- | -------- 
+3 months | NA | NA | NA | 2.25%
+6 months | NA | NA | 3.00% | 2.75%
+9 months | NA | NA | 3.25% | 2.75%
+1 year | 4.25% | 4.25% | 3.75% | 3.25%
+18 months | 4.25% | 4.25% | 3.75% | 3.25%
+2 years | 4.75% | 4.75% | 4.25% | 3.75%
+3 years | 5.00% | 5.00% | 4.75% | 3.75%
+4 years | 5.00% | 5.00% | 4.75% | NA
+5 years | 5.00% | 5.00% | 4.75% | NA
+
+**High Yield Account**
+
+Rates as on June, 2024
+
+**Balance (OMR)** | **Mass Customers** | **Al Rifaa and Ladies Segment** | **Al Riadah Segment** 
+------- | -------- | -------- | -------- 
+<10K | 0.50% | 0.50% | 0.50%
+\>\=10K<25K | 1.75% | 1.90% | 2.00%
+\>\=25K<50K | 2.75% | 2.90% | 3.00%
+\>\=50K<100K | 3.25% | 3.40% | 3.50%
+\>\=100K<250K | 3.50% | 3.65% | 3.75%
+\>\=250K<500K | 3.75% | 3.90% | 4.00%
+\>\=500K | 4.00% | 4.15% | 4.25%
+
+### Quick Links
+
+[Loans Rates](https://www.bankdhofar.com/treasury/loans-rates/) 
