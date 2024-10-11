@@ -1,0 +1,187 @@
+## BankDhofar Mobile Banking App: Features and Services
+
+Today our Mobile Banking App is full of features and value-added services, as it provides the customer with all of the following services:
+
+* Login simply by using your (username / password) or by using the quick login mode, (Touch ID).
+* Get connected to all your accounts and cards details
+* Pay your utility bills and top-up your mobiles without any hassle
+* Pay your credit cards dues
+* Locate your nearest ATM, CDM & branch
+* Transfer money in a very simple steps
+* Get the latest exchange rates
+* Be the first to know about our latest promotion and new product launches
+* Get prayer times
+* Cardless cash transfer
+* Get account e-statement
+* Unblocking international countries for Debit cards
+* Debit card deactivation
+* Limit change (Cash Withdrawal & POS)
+
+**What services are offered through our Mobile Banking App?**
+
+With BankDhofar Mobile Banking App you can avail the following facilities:
+
+**A. Join us**
+
+* If you are a BankDhofar customer who would like to have a relationship with the bank, you can click on join us icon on the pre login page. Soon you will be contacted by the bank for further details.
+
+**B. Accounts**
+
+* Check balance held in your Current account, Savings account, fixed deposit, Loan account, investment account and Credit card account.
+* View last 10 transactions in all accounts (Mini statement)
+* View up to 150 transaction understatements with opening and closing balances
+* View all account details
+* Pay off your Credit Cards
+* Pay off your loans
+* View Fixed deposit account summary, also you can terminate your deposit.
+* Request for an e-Statement for the preferred period.
+
+**C. Electronic Cards**
+
+* Debit card Summary (viewing debit card details and transactions history)
+* ATM & POS transaction summary (viewing transactions which happen on ATMs & POS machine)
+* Debit Card Limit Change (to change the limit of debit cards)
+* Debit Card Stop card
+* Unblock debit card for international usage (unblock debit cards if customer is traveling by using the electronic cards option unblocking feature.
+
+**D. Funds Transfer**
+
+* You can transfer funds with in your own accounts or to any third party’s account within BankDhofar
+* You can transfer funds to local banks in Oman (Transfer within Oman)
+* You can transfer funds to Banks outside Oman (Transfer Outside Oman)
+* Instant Transfer
+* To other wallet
+* Western Union
+* Deposit up to OMR 1,000 to deposit accounts in India instantly through Ripple.
+
+**E. Mobile Wallet**
+
+* You can transfer funds within your wallet account to other banks using their phone numbers or alias and QR code.
+* Customer can only own one wallet at a time.
+* You can view your balance and beneficiary added
+* Wallet limits: 
+    * Limit amount: OMR 500 
+    * Min amount per transaction: OMR 1 
+    * Max amount per transaction: OMR 500 
+    * Daily Limit amount: OMR 500 
+    * Max amount in wallet: Unlimited
+* Wallet Unbanked
+* Wallet registration – A non-banked account holder can register for wallet in BankDhofar.
+* Transfer funds using wallet account to other bank wallet accounts via Mobile number, alias and QR code.
+* Western Union transfers using wallet account.
+
+**F. Standing Order**
+
+* You can schedule your (Daily/ Weekly / Monthly) transfers by setting the dates for the funds to be sent to the recipient accounts automatically.
+* Third Party
+* Within Oman
+* Bill Payment
+* Outside Oman
+
+**G. Payments**
+
+* Mobile top-up: You can top up your own mobile number or any third party’s mobile number registered in Ooredoo and Omantel, Renna, Friendi
+* Bill payment: Register and Pay Utility Bills for Water & Electricity (ONEC/OIFC), Mobile, Landline, Internet (Ooredoo / Omantel). In addition, you can pay your American Express card dues, AWASER BroadBand
+* Donation: You can donate for registered charities through Android devices
+* Loan Payment: You can pay off your loans.
+* Make payments to merchants using wallet via QR code or Alias.
+* Quick Pay payments for person to person and merchant payment via QR.
+* Credit Card
+
+**H. Cardless Cash**
+
+* Introducing cardless cash withdrawal in BankDhofar ATMs by invoking the request from any electronic channel. Customers will have the ability to withdraw cash from any BankDhofar ATMs by simply placing a request through their Mobile Banking application. A unique code will be generated and sent either to the customers, if the request was for self-service, or to the recipient as an SMS. The system generates a unique code that can be keyed in any BankDhofar ATM that will automatically dispense the requested amount. BankDhofar is the first Bank in Oman to introduce this service.
+* Operation History
+
+**Reward Points:** Account Summary, Transaction Summary, Redemption Claim your credit card rewards using our mobile app features which allows customers to view and redeem their points.
+
+**I. My Everyday Life**
+
+* Prayer times: You can display prayer times in selected regions in the Sultanate
+
+**J. Locator**
+
+* Locate your nearest branch, ATM and CDM in proximity to your current location
+* You can view the available notes per ATM (OMR 5,10,20,50)
+* You can see how far the ATM/ CDM/ Branch is from your current location (in km)
+
+**K. My Requests**
+
+* Cheque Book: You can request for a cheque book
+* Credit card payment
+* Credit Card: You can request for a credit card
+* Credit card recovery
+* New Account: You can request opening a savings account
+* Demand Draft: You can request for a Demand Draft
+* Pay Order: You can request for a Pay Order
+* Loan: You can request for a loan
+* Insurance: You can request for an Insurance (Motor, Family, Domestic Helper Insurance)
+* Request Status: check the status of the request.
+* Pin reset
+* Credit Card Replacement
+* Request Status
+* View credit card pin
+* International SMS – For priority banking 
+    * Enable your international phone number to receive SMS for your transactions
+
+**L. Notification**
+
+* You can select the notification to be viewed as SMS or to be received as an alert through your Mobile Banking application
+* Alert settings
+
+**M. My BankDhofar**
+
+* Product Catalogue: You can view the banks products on Accounts, Loans, Cards and Insurance
+* Offers: You can view the banks offers.
+* Loan Calculator: Calculates the loan you would like to request.
+* Exchange Rate: Views the Transfer and Cash rate of OMR against non OMR currencies.
+* Deposit Rates: You can view the deposit rates against several currencies.
+* News: You can read about BankDhofar’s announcements
+* Card Offers: This will view the cards eligible for discounts all over the sultanate.
+* Contact Us: You can connect with us by sending us an email, or contact our call centre on 24791111
+
+**N. Cardless ATM**
+
+* We are Proud to be The First Bank in the World to Provide Cardless ATM Services through BankDhofar ATMs
+* First of its kind service in the world, enables customers to conduct ATM transactions easily only by using their mobile numbers. This innovative service is an extension of the flagship cardless cash service which is available only with BankDhofar Mobile Banking App.
+* To avail from the service, customers have to: 
+    * Step 1: Activate mobile number through: 
+        * Calling BankDhofar Call Center. 
+        * Mobile Banking App following the below steps: 
+            * Main Menu - Electronic Cards - Cardless ATM Services - Agree to the terms by clicking “ON” 
+    * Step 2: Visit the nearest BankDhofar ATM: 
+        * Press any key - Choose “Cardless ATM Services” - Agree to the terms - Insert the Registered Mobile Number - Enter the one-time PIN (OTP) sent to the registered mobile number - Enter your card’s PIN number - Proceed with transaction.
+* With Cardless ATM services, customers may withdraw cash, pay bills, request for cheque book, balance inquiry, and request for mini statement.
+
+**O. Send money INSTANTLY across the world with Western Union**
+
+Via BankDhofar Mobile Banking App! Anytime, Anywhere Securely!
+
+BankDhofar, the first bank in the Sultanate to make sending money easier with Money Transfer Service from Western Union through BankDhofar’s Mobile Banking App. Pay only OMR 1.500 per transaction to any country across the world.
+
+To transfer follow these steps
+
+* Select Transfer from the main menu and then select Western Union
+* Click +Add to add a new beneficiary
+* Fill the details required and click on +Add
+* Insert Transaction password and OTP to confirm adding Beneficiary
+* Beneficiary successfully added
+* Select beneficiary from the list and fill the required fields in addition to the preferred recipient currency, and accept the T&C
+* Click on continue to process to the confirmation page
+* On confirmation screen enter the transaction password to complete the transaction
+* Confirmation screen will show with the MTCN number to be shared with the receiver to collect the money
+
+**Mobile Banking Security Tips**
+
+Lost or changed your mobile phone number? Contact Bank Dhofar Call Center on 24791111 in order to advice you how to update your details. We suggest this is one of the first things you do
+
+Lock your phone when not in use. This password-protects your device so that nobody else can use it or view information. Also be sure to store your device in a safe location.
+
+* Clear your mobile frequently by deleting text messages from financial institutions, especially before sharing, discarding, or selling your device
+* Watch what you send - never disclose via text message any personal information (account numbers, passwords, or personal info that could be used in ID theft)
+* Do not jail break your device as this can leave it open to infection from a virus or Trojan. We recommend you also install security software, if available.
+* Stick with a secure network by ensuring wherever possible, that all internet connections are password protected
+* Use trusted apps - always download mobile apps from reputable sources. Publisher or seller. If you have suspicions about the authenticity of a mobile banking app please contact call center on 24791111
+* DO NOT disclose your personal or any other information relating to your accounts through unknown telephone calls or any other communication channels. Even if they says that it’s from Bank Dhofar, Contact us at [24791111](tel:24791111) if you receive such calls
+
+**Note:** For any issues you would face while using the application, please contact our call centre 24x7 on [24791111](tel:24791111) or click [here](https://www.bankdhofar.com/electronic-channels/mobile-banking/# "Contact") to contact us. 

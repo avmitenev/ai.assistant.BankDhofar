@@ -1,0 +1,17 @@
+## Samsung Wallet - BankDhofar
+
+Samsung Wallet is a quick, easy and secure way for users to complete payments. It will be equipped with additional features in the near future including storing sensitive documents such as from IDs, electronic keys, boarding passes – with just one swipe. As Samsung continues to collaborate with a variety of trusted partners and developers, the capabilities of Samsung Wallet will continue to grow.
+
+The Samsung Wallet platform is protected by strong hardware and Samsung’s Knox-based security technology to safely store sensitive information in device, including fingerprint recognition and encryption to make sure users’ important data are protected. It also replaces sensitive data with unique identification symbols which offers an extra layer of protection against potential digital and physical hacking attempts.
+
+Samsung Wallet is compatible with the following Galaxy devices:
+
+*   **S Series:** S23, S23+, S23 Ultra, S22, S22+, S22 Ultra, S21 5G, S21+ 5G, S21 Ultra 5G, S21 Fan Edition 5G, S20, S20+, S20 Ultra, S20 Fan Edition 5G, S10, S10+, S10e, S10 5G, S9, S9+, S8, S8+.
+*   **Note and Z:** Note20 5G, Note20 Ultra, Note10, Note10+, Note10+ 5G, Note9, Note8, Galaxy Z Fold4, Galaxy Z Flip4, Galaxy Z Flip3 5G, Z Flip 5G, Z Fold3 5G, Z Fold2 5G, Fold.
+*   **A Series:** A32 5G, A42 5G, A52 5G, A50, A51, A51 5G, A53 5G, A70, A71 5G.
+
+For FAQ, please visit [https://www.samsung.com/ae/samsung-wallet/](https://www.samsung.com/ae/samsung-wallet/).
+
+Samsung pay: [https://www.samsung.com/ae/samsung-pay/](https://www.samsung.com/ae/samsung-pay/)
+
+Note: Samsung Wallet is available only on devices running Android 9 or above. Available features and content may vary by country/region, device model, carrier, and firmware version. 

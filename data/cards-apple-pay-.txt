@@ -1,0 +1,118 @@
+## Apple Pay with BankDhofar
+
+**Pay easily. Pay fast.**
+
+You can now pay with your BankDhofar ![Image 3](https://www.bankdhofar.com/media/rq0o1zed/image.png) card anywhere you see ![Image 4](https://www.bankdhofar.com/cards/apple-pay/?rmode=max&width=29&height=12) in-store, online, or in your favorite apps––it’s easy with Apple Pay.
+
+**Privacy and security**
+
+Extra security. Built right in.
+
+Apple Pay uses the security features built into your Apple device—to help keep your purchases private and secure. All transactions require Face ID, Touch ID, or your passcode on your iPhone, iPad, or Mac and a double click on your Apple Watch. These features are designed so only you can make purchases with Apple Pay. Your actual card number is never stored on your device or Apple servers. And when you pay, your card number is never shared by Apple with merchants, keeping these details hidden and offering an additional level of protection against fraud.
+
+**Online and in-app benefits**
+
+An easy way to pay online and in-app.
+
+Look for ![Image 5](https://www.bankdhofar.com/cards/apple-pay/?rmode=max&width=29&height=12)![Image 6](https://www.bankdhofar.com/media/zffhjfl3/image.png) online and in your favorite apps. Enjoy easy and secure payments––seamlessly from your iPhone, Apple Watch, iPad, or Mac.
+
+**Add your BankDhofar card. Just like that.**
+
+Apple Pay is here and available on all your Apple devices. You’re just a few taps away from using Apple Pay with your BankDhofar card.
+
+**Add BankDhofar to Apple Pay through BankDhofar Mobile Banking app.**
+
+*   Login to BankDhofar Mobile Banking App
+*   Click on the menu bar and choose *Apple Pay*
+*   Choose what Debit Card / Credit Card to be activated
+*   Click on *Add to apple wallet*
+*   You will get redirected to the apple wallet screen to complete the process.
+*   Accept T&C and click on *Confirm*
+*   Card will be added to *Apple wallet* successfully.
+
+ [![Image 7](https://www.bankdhofar.com/media/m0qabagg/apple.png?width=160&height=120&rnd=133716275212700000)](https://www.youtube.com/embed/-t7Wkz8IjQY)
+
+For more information: visit [Apple Pay](https://www.apple.com/apple-pay/)
+
+### Frequently Asked Questions
+
+*   **What is Apple Pay?**
+    Apple Pay, is a mobile contactless payment solution that enables customers to make in-store, in apps, and on the web purchases with select Apple devices. You can use Apple Pay everywhere contactless payments are accepted.  
+    In stores, you can use Apple Pay on your iPhone or Apple Watch. Within apps, you can use Apple Pay on your iPhone, iPad, and Apple Watch.  
+    Within websites in Safari, you can use Apple Pay on your iPhone, iPad, and Mac
+*   **How do I register my card with Apple Pay?**
+
+    **iPhone through the Wallet**  
+    *   Open Wallet and tap the 'Plus' icon next to Apple Pay in the upper-right corner or select 'Add debit or credit card'  
+    *   Scan your card within the frame to capture your card details automatically or enter these details manually (Any cards previously registered with iTunes will be automatically displayed  
+    *   Confirm your details and enter your Security Code (CVV) that is the 3digit number on/beside the signature panel on the back of your card  
+    *   Accept the Terms and Conditions.  
+    *   You will receive an OTP (One Time PIN) code via SMS to verify your identity. You will need to enter the code to continue  
+    *   You are now ready to use Apple Pay
+
+    **Apple Pay through BankDhofar Mobile Banking app.**  
+    *   Login to BankDhofar Mobile Banking App  
+    *   Click on the menu bar and choose \*Apple Pay\*  
+    *   Choose what Debit Card / Credit Card to be activated  
+    *   Click on \*Add to apple wallet\*  
+    *   You will get redirected to the apple wallet screen to complete the process.  
+    *   Accept T&C and click on \*Confirm\*  
+    *   Card will be added to Apple wallet successfully.
+
+    **Apple Watch**  
+    Cards must be added from the Watch app on the paired iPhone. If more than one Apple Watch is paired to an iPhone, cards must be added to each Apple Watch separately.  
+    *   Tap the Watch icon to open the app on iPhone.  
+    *   Scroll to 'Wallet & Apple Pay'.  
+    *   Tap 'Add Credit or Debit Card'.  
+    *   Complete the verification steps.
+
+    **iPad**  
+    *   Go into Settings & Tap 'Wallet & Apple Pay'.  
+    *   Select 'Add Credit or Debit Card'.  
+    *   Follow the instructions to add the card.
+
+    **MacBook Pro with Touch ID.**  
+    *   Go into System Preferences. Open the Wallet & Apple Pay.  
+    *   Tap the "+" at the top of the screen. Follow the instructions to add the card.
+*   **Where can I use Apple Pay?** 
+    *   In stores: Use Apple Pay on your iPhone or Apple Watch.  
+    *   In apps: Use Apple Pay on your iPhone, iPad, or Apple Watch.  
+    *   On websites: Use Apple Pay in Safari on your iPhone, iPad, or Mac.
+*   **How long does it take for my card to activate after registering it to Apple Pay?**
+    It will take approximately 10 minutes for your card to activate after registration.
+*   **How many cards can I register with Apple Pay?**
+    You can register all eligible BankDhofar Cards in Apple Pay.
+*   **Can I register the same card on multiple devices using Apple Pay?**
+    Yes, there is no restriction on the number of devices you can register a card with.
+*   **Can I use Wi-Fi for card registration in Apple Pay?**
+    Yes, but using a cellular data connection is recommended for the best experience.
+*   **What should I do if I have trouble adding a payment card to Apple Pay?**
+    Check your internet connection. If the issue persists, contact us at 24791111
+*   **Which payment cards can I register to Apple Pay?**
+    You can register any eligible BankDhofar Card to Apple Pay.
+*   **How does Apple Pay work?**
+    Apple Pay uses Near Field Communication (NFC) for contactless payments. NFC technology allows devices in close proximity to communicate without physical contact, enabling payments by waving an NFC-enabled device near a contactless terminal.
+*   **What is NFC?**
+    Near Field Communication (NFC) is a method of wirelessly transmitting data using radio waves. Apple Pay uses NFC to securely transmit payment data to terminals.
+*   **Can Apple Pay be used for online purchases?**
+    Yes, Apple Pay can be used for online purchases via apps and websites. For more details, visit Apple Pay About.
+*   **How can I cancel a payment made using Apple Pay?**
+    If you return an item purchased with Apple Pay, the store may require you to use your phone on the payment terminal for a refund. Contact the retailer directly to process the return.
+*   **What should I do if I lose my original payment card and receive a replacement?**
+    Remove the original payment card from Apple Pay and register the replacement card.
+*   **Can I continue to use my physical payment card if I disable Apple Pay or remove the digital equivalent?**
+    Yes, disabling or removing a card from Apple Pay only suspends the digital card number assigned to your device. To suspend the physical card, contact our call center.
+*   **Why should I use Apple Pay instead of my plastic cards?**
+    Apple Pay offers multiple layers of security to protect your payment information. Your actual card number is not shared during transactions; instead, a virtual account number is used to keep your details safe.
+*   **How secure is Apple Pay?**
+    Apple Pay uses multiple layers of security, including tokenization, to protect your payment information. The actual card number is never shared.
+*   **What is Tokenization?**
+    Tokenization replaces sensitive payment card information with a device-specific token to protect payment data and reduce security risks.
+*   **What is a Secure Environment or Trusted Execution Environment?**
+    A Secure Environment is a physically segregated chip that protects sensitive operations, such as payment information, from malware and unauthorized access.
+*   **Does Apple Pay have access to my bank accounts?**
+    No, Apple Pay does not have access to your bank accounts.
+*   **Will my Apple Pay information remain on my device if it is formatted?**
+    No, formatting your device will remove all payment cards registered to it.
+*   **What should I do if my device is lost or stolen?**
+    Immediately to block your card through the BankDhofar mobile banking app or contact the call center 24791111. You may also use 'Find My Device' to locate, lock, or erase your device. 

@@ -1,0 +1,31 @@
+## Easy Payment Plan
+
+BankDhofar offers an Easy Payment Plan that enables customers to buy and pay in installments with 0% interest, using BankDhofar credit cards.
+
+###### EPP Steps
+
+1. Visit any of our participating merchants and select the product/ service you would like to purchase
+2. Use your credit card to make your purchase however, ensure you have sufficient credit limit on your card
+3. When paying for your product or service request for the payment to be via Easy Payment Plan. Each merchant has their own minimum eligible amount. However, it’s not less than OMR 100
+4. Once the transaction is posted, you will receive an SMS with a link to convert the transaction to installments with a token number as well as, a link toward the T&C of Easy Payment Plan
+5. Click the link to visit the web page and select the language, fill the expiry date of the card and the token number received by SMS to log in
+6. Select a suitable plan (3 or 6 or 9 or 12) where the total amount for EPP and calculation of installment will be available to you upon selecting the plan period
+7. Finally submit the request to convert the transaction to Easy Payment Plan
+
+**Our Partners**
+
+[Image 2]
+
+[Image 3]
+
+[Image 4]
+
+[Image 5]
+
+**Terms and Condition**
+
+* Installment period are 3, 6, 9 & 12
+* Minimum eligible transaction amount is OMR 100 or above
+* Only purchase transaction is eligible
+* Valid on all BankDhofar Credit Cards except for Corporate Credit Card
+* ATM withdrawals are not eligible 

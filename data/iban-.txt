@@ -1,0 +1,70 @@
+## IBAN - Bank Dhofar
+
+IBAN stands for the International Bank Account Number (IBAN). An IBAN is a unique number that is generated for each and every account held with Bank Dhofar. The IBAN for Oman will be 23 digits in length and will contain the following information; Country Code, Check Digits, Bank Identifier Code followed by your current Bank Account Number.
+
+No, IBAN will not replace your existing Account number. Additional characters will appear in front of the existing bank account number and the whole sequence of alpha numeric digits will be known as the IBAN.
+
+An IBAN can always be distinguished from a normal account number by the following:
+
+* Two letters at the beginning of the IBAN, which refer to the country code where the account resides;
+* Two numbers (in the third and fourth position of the IBAN) which represents check digits;
+* Three numbers (after the check digits) to identify the respective bank where the beneficiary maintains his/her account; and the last 16 numeric digits represent the beneficiary account number with leading zeros. The length of IBAN in Oman is 23 characters.
+
+An IBAN identifies a specific bank account, while a SWIFT (Society for Worldwide Interbank Financial Telecommunication) code is used to identify the bank itself. The SWIFT code is used to route international payments between banks, while the IBAN is used to identify the specific account that the payment should be credited to.
+
+The main benefit of IBAN is to facilitate the automatic processing of money transfers between countries which are IBAN compliant. Since banks are required to check the accuracy of the IBAN at the point of initiating a funds transfer, they can only make the funds transfer which carry the correct IBAN.
+
+IBAN will be printed on your Statement of Account(s) that will be dispatched to you in December 2013 with a separate letter enclosed, however if Customer do not receive the printed communication they can always obtain their IBAN through the following channels
+
+* Online Banking
+* Mobile Banking
+* E-Statement / Statement of Account
+* Generate IBAN through Bank Dhofar website
+
+When you write or print an IBAN on a document, it has to be split into groups of four characters each, Separated by a blank space of one character and the last group shall have a length of one character,
+
+E.g. OM39 025 00 00000000000000
+However, there should not be any blank spaces when entering the IBAN in an electronic payment system. The IBAN should be presented in an electronic payment system as a continuous string of Characters i.e... OM390250000000000000000.
+
+* All Domestic incoming and outgoing transfers to/from customer accounts with local Banks/Financial Institutions via SWIFT/ACH/RTGS.
+* All incoming cross boarder transfers to customer accounts with Banks/Financial Institutions in Oman.
+* All outgoing cross boarder transfers to customer accounts with Banks/Financial Institutions in the countries where use of IBAN is mandatory.
+
+Yes, an IBAN account can be used to receive payments from other countries, as long as the sender provides the necessary information, including the IBAN number and any other required details.
+
+Yes, an IBAN account can be used for personal transactions, such as receiving payments from friends or family members, making online purchases, or transferring funds between personal accounts.
+
+Banks will not process and will reject such transfers if they do not contain a valid IBAN.
+
+Furthermore, there may be additional rejection charges applied to the transfer.
+
+As per the directive issued by Central Bank of Oman, Bank Dhofar is migrating to ISO International Bank Account Number (IBAN) standard for numbering of customer bank accounts effective 1st April, 2024 that will run through until 30th June,2024 (as a transitional period) and effective 1st July 2024 will become mandatory to have IBAN numbers.
+
+The purpose of an IBAN number is to enable efficient and accurate processing of cross-border payments by identifying the bank and account details of the beneficiary. It helps to ensure that the funds are transferred to the correct account and can reduce the likelihood of errors and delays in the payment process.
+
+You can obtain an IBAN number from your branch or electronic channels like
+
+* Online Banking
+* Mobile Banking
+* Generate IBAN through Bank Dhofar website
+
+An IBAN identifies a specific bank account, while a SWIFT (Society for Worldwide Interbank Financial Telecommunication) code is used to identify the bank itself. The SWIFT code is used to route international payments between banks, while the IBAN is used to identify the specific account that the payment should be credited to..
+
+* All incoming cross boarder transfers to customer accounts with Banks/Financial Institutions in Oman.
+* All outgoing cross boarder transfers to customer accounts with Banks/Financial Institutions in the countries where use of IBAN is mandatory.
+
+The fees associated with using an IBAN account can vary depending on the type of transaction you are making.
+
+Yes, an IBAN account can be used to receive payments from other countries, as long as the sender provides the necessary information, including the IBAN number and any other required details.
+
+If an IBAN number is entered incorrectly, the payment may be delayed, rejected, or sent to the wrong account. This can result in additional fees or charges, and may require you to contact your bank or financial institution to correct the mistake and retrieve the funds.
+
+You can check the validity of an IBAN number using various online tools or by contacting your BankDhofar branch. The IBAN number should be checked for correct format, length, and country code, as well as for the accuracy of the bank and account numbers included in the IBAN. You can click here to check you IBAN.
+
+There may be restrictions on the number of transactions you can make with an IBAN account, depending on the bank or financial institution you use and the specific account terms and conditions. Some accounts may have limits on the number of transfers, withdrawals, or deposits you can make in a given period.
+
+Yes, an IBAN account can be used for personal transactions, such as receiving payments from friends or family members, making online purchases, or transferring funds between personal accounts.
+
+To protect your IBAN account from fraud, you should be cautious about sharing your account details with others, use secure passwords and authentication methods, and regularly monitor your account activity for any unauthorized transactions or suspicious activity.
+
+Yes, BankDhofar offers Internet Banking platforms and mobile app that allow you to manage your IBAN account, including checking balances, transferring funds, and monitoring account activity. 

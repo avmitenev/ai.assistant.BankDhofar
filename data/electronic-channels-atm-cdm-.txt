@@ -1,0 +1,90 @@
+## BankDhofar ATM / CDM Services 
+
+**Services Available for BankDhofar customers:**
+
+* Cash withdrawal in OMR, AED and USD
+* Mini statement
+* Balance inquiry
+* Self-fund transfer
+* Third party transfer (within BankDhofar)
+* Transfer funds to other local bank accounts
+* Change PIN code
+* Cardless cash withdrawal
+* Update mobile number
+* Cardless ATM service
+* Instant Transfer Account to Account
+* Activating ATM card for the first time
+* Check book request
+
+**Services available for Non-BankDhofar customers:**
+
+* Cash Withdrawal in OMR, AED & USD
+* Mini statement
+* Balance inquiry
+
+**CDM Services**
+
+**Services Available for BankDhofar customers**
+
+* Cash Deposit in OMR
+* Bill Payment
+    * OIFC Water Bill
+    * OIFC Electricity Bill
+    * ONIC Water Bill
+    * ONIC Electricity Bill
+    * Mobile GSM Bills (Omantel & Ooredoo)
+    * Telephone Bills (Omantel & Ooredoo)
+    * Internet Bill (Omantel, Ooredoo & AWASR)
+    * Haya water
+    * AWASAR
+* Mobile Top-Up (Omantel , Ooredoo , Renna & Friendi)
+* Donation to Charities that have accounts maintained in BankDhofar
+* BankDhofar Credit Card Payment
+* Cheque Deposit
+* American Express bill payment
+* Cash Deposit using mobile number
+* Zakat payment
+* Self-fund transfer
+
+**Services available for Non-BankDhofar customers**
+
+* Cash Deposit to BankDhofar Accounts in OMR.
+* Bill Payment
+    * OIFC Water Bill
+    * OIFC Electricity Bill
+    * ONIC Water Bill
+    * ONIC Electricity Bill
+    * Mobile GSM Bills (Omantel & Ooredoo)
+    * Telephone Bills (Omantel & Ooredoo)
+    * Internet Bill (Omantel, Ooredoo & AWASR)
+    * Haya water
+    * AWASAR
+* Mobile Top-Up (Omantel , Ooredoo , Renna & Friendi)
+* Donation to Charities that have accounts maintained in BankDhofar
+* Credit card payment ( BankDhofar & American Express)
+* Cheque Deposit
+* FFM (FULL FUNCTION MACHINE) It’s as a combination of ATM & CDM in one machine. So the services available are all the Services in ATM & CDM
+
+**FFMs services**
+
+* Cash withdrawal in OMR, AED and USD
+* Balance inquiry
+* Mini statement
+* Activating ATM card for the first time
+* Check book request
+* Transfer funds to my account and third party
+* Change the PIN number for your ATM card and Credit Cards
+* Card-less Cash services / withdrawal
+* Pay the bills water and electricity
+* Transfer funds to other local bank accounts
+* Change Mobile Number
+* Cardless ATM services
+* Instant Transfer Account to account
+* Bulk Cash deposit
+* Bulk Cheque deposit
+* Statement printing with Reference Number and OTP
+* Statement printing with debit card and PIN
+* Cheque printing with Reference number and OTP
+* Cheque printing with debit card and PIN
+
+**Note:** For any transactions issue during cash withdrawal or cash deposit, please contact our call centre on 24791111 24/7. 

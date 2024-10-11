@@ -1,0 +1,7 @@
+## Analyst Coverage
+
+**Firm Name** | **Analyst** | **Email**
+------- | -------- | --------
+Ubhar Capital Oman | Neetika Gupta | [neetika@u-capital.net](mailto:neetika@u-capital.net)
+United Securities LLC | Joice Mathews | [joice@usoman.com](mailto:joice@usoman.com)
+Vision Capital LLC | Bishan Bhalla | [bishen.b.@visioncapital.om](mailto:bishen.b.@visioncapital.om) 

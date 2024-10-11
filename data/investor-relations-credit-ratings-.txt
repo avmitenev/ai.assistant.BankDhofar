@@ -1,0 +1,10 @@
+## BankDhofar Credit Ratings
+
+**Rating Agency** | **Rating** | **Outlook** | **Date**
+------- | -------- | -------- | --------
+Moody's | Ba1 | Positive | December - 2023
+Fitch | BB | Stable | December - 2023
+
+1. Home
+2. Investor Relations
+3. Credit Ratings 

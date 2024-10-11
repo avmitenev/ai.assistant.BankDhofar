@@ -1,0 +1,141 @@
+## Bank Dhofar - Call Center & Electronic Banking Services
+
+**3D**
+
+* Unblock of 3D secure password.
+* Reset of 3D secure password.
+
+**Credit Card**
+
+* Credit Card replacement.
+* Credit Card PIN replacement.
+* Credit Card Hotlist.
+* Credit Card activation.
+* Credit Card temporary limit increase.
+* Modification of Mobile Number/ Address.
+* SMS service activation.
+* Change SMS service language.
+* Enable/Disable Credit Card SMS services.
+
+**Debit Card**
+
+* New Debit Card activation.
+* Debit Card activation.
+* Adding second account access to Debit Card.
+* Debit Card PIN reset.
+* Debit Card PIN re – issuance.
+* Debit Card Hotlist.
+* Debit Card limit increase.
+* Debit Card international De – Blocking.
+* Debit Card temporary de – activation.
+* Inquiry about Card less Cash
+
+**E – Banking**
+
+* Internet Banking Activation & Deactivation for Retail.
+* Internet Banking Activation & Deactivation for Corporate.
+* Activation & Deactivation IMAL internet banking
+* Online Banking PIN activation.
+
+**Mobile Banking**
+
+* Activation of retail mobile banking user.
+* De – Activation of retail mobile banking user.
+* Unlock of retail mobile banking user.
+* De – Tag of retail mobile banking user.
+* Unsubscribe of a retail mobile banking user.
+* Unlock Debit Card.
+* Changing MPIN.
+
+**Inquiries**
+
+* Loan account inquiry.
+* The power of attorney expiry.
+* Insurance product inquiry.
+* Saving accounts inquiry.
+* Account statement inquiry.
+* Balance inquiry.
+* Deposits account inquiry.
+* Consumer bills payment registration.
+* Account inquiry (Salary, Loan installments).
+
+**Accounts**
+
+* Status - Dormant Accounts /Status - Inactive Accounts
+* Over Draft
+
+**Deposits**
+
+* Deposits rates per currency.
+* Currency exchange.
+
+**Loans**
+
+* LOS – to check the loan status
+
+**Complains**
+
+* Registration of customer complaints and suggestions.
+
+**SMS Banking**
+
+* Update customer Mobile Number.
+* Update customer E – Mail ID.
+* Cancel SMS Banking services.
+* SMS Banking registration/activation.
+
+**CC Rewards**
+
+* CC Rewards
+
+**Others**
+
+* TPIN/OTP
+* Cheque book request.
+
+**IVR Service:**
+
+**Account services:**
+
+* Balance Inquiry: Access account balance through the IVR system.
+* Statement By E – Mail: Receive balance statement showing financial transactions.
+* Cheque Book Request: Request a cheque book based on your needs.
+
+**Credit Card Services:**
+
+* Credit Card Balance Inquiry: Check available credit card funds.
+* Credit Card Block: Block your credit card through the IVR system.
+
+**Debit Card Services:**
+
+* Unblock Debit Card: Enable international use of your debit card.
+* Temporary De-Activation: Deactivate your debit card for up to 48 hours.
+* Debit Card Hotlist: Permanently stop the card.
+
+**Utility payment:**
+
+* Mobile Top – Up: Top up your mobile number or another's (Omantel/Ooredoo/Renna/Friendi).
+* Mobile Bill Payment: Pay your mobile bills (Omantel/Ooredoo).
+* Phone Bill Payment: Pay your phone bills (Omantel/Ooredoo).
+
+**Update mobile number:** Update your mobile number in the system.
+
+**Product information:** Listen to information about bank products.
+
+**Offers:** Listen to current bank offers.
+
+**Speak with an Agent:** Contact a live representative for assistance.
+
+**Feedback:** Provide feedback on products and services.
+
+**Unsubscribe Phone banking services:** Unsubscribe from phone banking services by contacting BankDhofar call centre on +968 24791111.
+
+**We are committed to serving you. You can reach us easily:**
+
+**By Phone:**
+
+Call center [24791111](tel:24791111)
+
+**By Email:**
+
+[care@bankdhofar.com](mailto:care@bankdhofar.com) 

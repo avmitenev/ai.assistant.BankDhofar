@@ -1,0 +1,20 @@
+## Anti-Fraud 
+
+We at BankDhofar believe in safeguarding the interests of our customers and that is why we find it necessary to bring this to your attention. There are fraudulent e-mails requesting customers of various banks, asking them to update sensitive account information such as debit card and credit card numbers, user IDs, passwords etc. by clicking on an e-mail or by visiting a website.
+
+**Please note:**
+
+* BankDhofar DOES NOT request customers to enter or update their Login ID, Password or any other information through email, WhatsApp, SMS. Hence please do not part with this information even if you are asked to through email or through other channels.
+* If you do receive an e-mail, WhatsApp or SMS or telephonic call claiming to be a representative of BankDhofar and asking you to update sensitive account information or divulge any account details including OTP, please DO NOT share and let us know by forwarding the e-mail to Care@bankdhofar.com or call immediately on our 24-hour call centre at (+968) 24791111.
+* Download BankDhofar Mobile Banking App from BankDhofar website or from Apple App Store for IOS devices, or Google Play Store for Android devices.
+* Best practice is to change passwords frequently. It helps in protecting your account.
+* **IMPORTANT:** If you have revealed sensitive account information such as your debit card, a credit card number, user ID, password, or other personal information in this manner, please call our 24-hour call centre at (+968) 24791111 or write to us at Care@bankdhofar.com
+
+**Security Tips:**
+
+* **Device Security:** It is important to use up-to-date anti-virus software and a personal firewall. You should be vigilant if you use internet cafes or a computer that is not your own and over which you have no control.
+* **Check for spyware:** Use software to remove spyware from your computer, as these programs record information about your interest use and transmit it without your permission.
+* **Keep your identity private offline:** Your identity can be as easily stolen offline as it can online. It is important that you comply with instructions about destroying new PIN numbers and expired bank cards.
+* **Ensure you log off properly:** It is important to completely log off from your internet banking session, simply closing the window you performed the transaction in may not close the banking session. If your computer is infected with a Trojan, your session may become hijacked by a criminal and financial transactions may be performed without your knowledge. It is also advisable to disconnect from the internet if you are not planning to use it.
+
+We would like to emphasize that BankDhofar will never solicit such information and we consider your privacy and security a priority. With your best interest always in mind, we ensure that banking with BankDhofar is a safe and secure experience. 

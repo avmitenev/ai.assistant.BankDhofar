@@ -1,0 +1,10 @@
+## BankDhofar Dividend History
+
+**Year** | **Cash Dividend** | **Bonus Shares**
+------- | -------- | --------
+2018 | 10% | 7%
+2019 | 3% | Nil
+2020 | 4% | Nil
+2021 | 2% | Nil
+2022 | 5% | Nil
+2023 | 7.75% | Nil 

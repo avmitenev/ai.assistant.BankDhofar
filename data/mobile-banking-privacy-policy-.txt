@@ -1,0 +1,78 @@
+## Bank Dhofar Mobile Banking Privacy Policy
+
+**Information updation**
+
+It is our endeavour to keep customer information up-to-date. We may encourage our customers to update their information in our records from time to time.
+
+**Use of Information and Materials**
+
+The access and usage of BankDhofar mobile banking products, services, information and materials are restricted to the jurisdiction where they are legally offered by BankDhofar. They may not be accessed and used by any one who is residing or located in jurisdictions which restrict the usage of such products, services, information and materials. More information about such access may be obtained by visitors from a competent authority in such locations and jurisdictions, and visitors are wholly responsible for their actions in case they do not adhere to the same.
+
+The information and materials in BankDhofar mobile banking service, terms and conditions, products and services, descriptions and customer service pages are subject to change at the convenience of BankDhofar with or without any prior notification.
+
+Usage of the information and materials available on BankDhofar mobile banking service in an illegal or unauthorized manner is prohibited; this includes unauthorized entry into the BankDhofar website, BankDhofar Online Internet Banking, misuse of passwords, misuse or wrong representation of any information available on the pages and / or any such illegal activity. Access to any or all products and services from a specific location may be restricted by BankDhofar at its discretion.
+
+All logos, trade marks and material available on BankDhofar Online are copyrighted and owned by BankDhofar. None of these may be modified, reproduced, copied, downloaded, transmitted or used for commercial or public purposes. Users of these services are restricted from using any of the same without express written permission by an authorized representative of BankDhofar.
+
+**No Warranties**
+
+BankDhofar SAOG aspires to take every precaution and care to offer accurate information on products and services, and error-free access. However BankDhofar offers no warranty – express or implied - regarding security, accuracy, protection against cyber crimes and viruses and non-infringement. In addition, BankDhofar offers no warranty for information transmitted over the internet or mobile network which is subject to communication blackouts, overloading of networks, incorrect or inaccurate information, and other problems related to using a public internet service. BankDhofar is not responsible for any direct, indirect or consequential damages arising out of the use of BankDhofar Online.
+
+**Limited Liability**
+
+BankDhofar is not liable for any direct or indirect damages, incidental or consequential damages, losses or expenses arising in connection with the usage of BankDhofar Online related to failure of Internet Services, errors or omissions, technical faults, disruption of services phishing, system failure or otherwise.
+
+**User Data:**
+
+We collect information such as: personal data, Location information, Device Information, Biometric information, Transaction Data, mobile numbers, and Other information such as information relating to your occupation and financial situation such as employer’s name and address if self-employed, type of account, and nature and volume of anticipated business dealings, with the conventional bank licensee, income proof, bank statements, income tax returns, salary slip, contract of employment, passbook, debit card/credit card details, expenditure, assets and liabilities, source of wealth and signature.
+
+**Permission / Feature used in application**
+
+**Usage Description**
+
+Phone
+
+We use this permission to identify your device information and enable the user for easier/preferred login
+
+SMS
+
+We use this permission  
+- To autofill OTPs you receive via SMS on your device.
+
+Storage
+
+We use storage access  
+- Downloading your statements and transaction receipts to your local device storage.  
+- uploading images for your profile/ beneficiaries.
+
+Camera/ Gallery
+
+We use this camera / gallery access  
+- To scan the QR codes for mobile payments and transactions.  
+- To scan Debit & Credit card information to retrieve cards transaction details
+
+- To scan the cards and passports for Mobile Banking on boarding process.  
+- To capture the pictures or access gallery for the profile photo, beneficiary photo while using the application.
+
+Contact
+
+We use this contact  
+- To send money to any contact from your contact book.  
+- To show you the list of your contacts that you can make a recharge for.  
+- To register for Mobile Payments using mobile number from contact list.
+
+Locations
+
+We use this location information to identify and display nearest ATM, Branch and CDM with distance
+
+IMEI/SECURE.ANDROID_ID
+
+We use this information to identify & tie up for the uniqueness of the device that belongs to the user. Based on this information application asks user to register or login on launch of the application.
+
+Phone Number / Mobile Number
+
+We use this information to identify the customer, register for the banking services usage and communicate SMS messages.
+
+**Governing Law**
+
+The use of the services provided through BankDhofar mobile banking shall be governed by the laws of the Sultanate of Oman and no other country. The Omani court has the right to clarify/ explain / interpret the clarification in accordance to the applicable laws in the Sultanate of Oman, even if the transaction is done outside Oman. The Bank accepts no liability whatsoever, direct or indirect, for non-compliance with the laws of any country other than the Sultanate of Oman. The mere fact that the BankDhofar Online can be accessed through Internet by a Customer in a country other than Oman shall not be interpreted to imply that the laws of the said country govern these terms and conditions and/or the operations in the Internet accounts of the Customer and/or the use of Mobile Banking service. 

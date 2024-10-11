@@ -1,0 +1,62 @@
+## Intilaqa App: Open an Account Digitally
+
+“Intilaqa” mobile app is a highly secure app, with a user friendly interface. Customers can easily follow the steps of opening the account. Upon success account opening, customers may request to get the debit card delivered to wherever they are in the Sultanate. In addition to the account opening, users may follow-up on the status of their application.
+
+“Intilaqa” mobile app is available for both iOS and android phones. Customers may download the app, and follow the below account opening process.
+
+**Account opening process**
+
+**Step 1:** [Download the application.](https://www.bankdhofar.com/intilaqa-download/) 
+
+**Step 2:** Open the Intilaqa App and choose the type of Account you wish to open: Self, High Yield, or Child (for Omanis only).
+
+**Step 3:** Enter mobile number and complete the OTP validation.
+
+**Step 4:** Select the nationality.
+
+**Step 5:** Submit required documents based on the nationality and the account type
+
+**Step 6:** Fill out the additional information such as address, employment details and upload the Proof Documents.
+
+**Step 7:** Declare PEP, CRS, and FATCA.
+
+**Step 8:** Select the preferable method to collect the debit card (branch visit or via courier).
+
+**Step 9:** Review all entered information and submitted documents, sign (or upload) the signature.
+
+**Step 10:** Accept Terms & Conditions.
+
+**Step 11:** Submit the application.
+
+**Next**
+
+Customer will receive notifications about the received application and its status (under process, approved, or rejected).
+
+Customers will require to visit any branch within 3 months to complete the Full KYC process to avoid account Freeze/interruption.
+
+**Documents required for account opening**
+
+*   **For Omanis:**
+    *   Valid Mobile Number
+    *   Valid Civil ID for self and high yield accounts
+    *   Address Proof
+    *   Employment Proof
+    *   Valid Civil ID of the Father and Omani Birth Certificate of the child for child accounts
+*   **For Non-Omanis:**
+    *   Valid Mobile Number
+    *   Valid Resident ID
+    *   Address Proof
+    *   Employment Proof
+    *   Main Page of Passport for self and high yield accounts
+
+**Account limits**
+
+| Account Type             | Account Limit                                        |
+|-------------------------|----------------------------------------------------|
+| Saving Account           | OMR 500 per transaction.                              |
+| Saving Account Minor/Child | OMR 200 per month. OMR 50 per transaction.             |
+| High Yield Account      | OMR 500 per transaction.                              |
+
+\* Outside Oman Remittance are not permitted through the Mobile Banking Application.
+
+\* Above limits are set on the account till complete KYC is done by the customer at branch. 

@@ -1,0 +1,56 @@
+## Dhofar-Pay
+
+For the first time in Oman, Pay with your smartphone
+
+Activate Dhofar-Pay on your android phone in just a few steps! [_Click here to know how._](https://www.bankdhofar.com/media/qdtner0d/dhofar-pay-user-guide_2aprupdate.pdf "Dhofar Pay User Guide 2Aprupdate")
+
+### Frequently Asked Questions
+
+*   **What is DhofarPay?**
+    A digital service that allows you to use your Card electronically to make contactless payments through a smartphone, instead of using your plastic card. This way, you can save the hassle of carrying multiple cards in your wallet.
+*   **What is NFC?**
+    Near Field Communication or NFC is a method of wirelessly transmitting data using radio waves. “Dhofar Pay” Wallet uses NFC to wirelessly transmit payment data to payment terminals with NFC readers that have been activated for use.
+*   **What are the steps to follow, before enabling Dhofar-Pay?**
+    1.  You should be a Bank Dhofar Customer
+    2.  You should have Bank Dhofar mobile banking user account (if not! Then download the APP and create a new user account today!)
+    3.  You should be holding an active Bank cards (your cards should be valid for use- not blocked or inactive!)
+    4.  Make sure your device NFC option is enabled under setting
+    5.  Make sure device has been authenticated / you have set (PIN / touch-ID/face-ID) and should be enabled on device setting
+*   **How secure is Dhofar Pay?**
+    It is secure, however we recommend you consider the following:
+
+    *   Take reasonable precautions to keep your Card and security details to prevent loss, theft or fraudulent use; safeguard your device and keep them under your personal control at all times;
+    *   Do not allow anyone else to use or log on to your device
+    *   Do not store anyone else's fingerprint or biometric credentials in your device;
+    *   Do not choose obvious numbers as password or pin for your device
+    *   Change the password or pin for your device regularly
+    *   For more details around security recommendations and disclosure on liability for unauthorized use, please refer to the terms and conditions as provided on Dhofar-Pay under Bank App
+*   **Which of Bank Dhofar Cards can I use under DhofarPay Wallet?**
+    All Bank Dhofar MasterCard & Visa Credit Cards and Debit Cards can be used on DhofarPay Wallet.
+*   **Will I still be earning reward points (Mukafaat) while enabling my Bank Dhofar credit card and enjoying other type of card offers & discounts using Dhofar pay?**
+    Yes.
+*   **How can I enable my cards to start paying using “Dhofar Pay”?**
+    [Dhofar Pay User Guide](https://www.bankdhofar.com/media/qdtner0d/dhofar-pay-user-guide_2aprupdate.pdf "Dhofar Pay User Guide 2Aprupdate")
+*   **How does Dhofar-Pay work?**
+    Dhofar-Pay uses Near Field Communication (NFC) to make contactless mobile payments. In order to use Dhofar-Pay, make sure that the NFC is enabled in your mobile phone’s settings.
+*   **How can I make a payment using Dhofar-Pay?**
+    To make payment using Dhofar-Pay you need to activate your linked card in the Dhofar-Pay menu available in your Bank Dhofar mobile Banking app and then enjoy convenient and safe payments by:
+
+    *   Unlocking the device and tapping on the payment terminal.
+    *   Selecting the Tap & Pay option from the pre-login screen.
+    *   Selecting the “Pay Now” option from the post login screen on the cards listing screen inside the Dhofar-Pay menu.
+*   **I do not have internet connection while visiting a store, will I still be able to make payment at the store’s payment terminal using Dhofar-Pay?**
+    Dhofar-Pay does not require internet to process your payment. You may simply unlock your device and tap on the payment terminal to make a payment in a jiffy.
+*   **Can I make online purchases with Dhofar-Pay?**
+    Not currently. Dhofar-Pay is focused on enabling simple & secure in-store payments. However, you can always use your Bank Dhofar debit & credit cards and your Bank Dhofar mobile banking app & Internet Banking for online & in-app purchases.
+*   **How long will it take for my card to activate after registering it to Dhofar-Pay Wallet?**
+    Its shows 3 min (but its immediately activated)
+    Your card will be activated immediately once you click on the activate option for your selected card (Debit or Credit) from Dhofar-Pay menu that is available on your mobile banking app. You may activate multiple cards and enjoy a seamless payment experience using Dhofar-Pay.
+*   **What happens with Dhofar-Pay if my physical credit/debit card is temporarily blocked or suspended?**
+    Your Dhofar-Pay transactions will be declined if your card is temporarily blocked or suspended. However, once your physical card is unblocked, you will be able to use your Dhofar-Pay without the need of any additional configuration or setup.
+
+#### Terms and Conditions
+
+Dhofar Pay Terms and Conditions
+
+[Download](https://www.bankdhofar.com/media/kbtb5p5e/dhofar-pay-terms-conditions-v4-4.pdf) 

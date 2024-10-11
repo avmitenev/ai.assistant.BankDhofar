@@ -1,0 +1,280 @@
+## Bank Dhofar - Online Banking Features
+
+**Retail Internet Banking features**
+
+The following services are available to retail customers through Bank Dhofar Internet banking:
+
+**Online Registration**
+
+*   (A/C No, National ID/Passport No, ATM PIN)
+
+**Login Mode**
+
+*   Password
+*   Mobile PKI
+
+**Accounts (Operative, Deposits, Loans)**
+
+*   Account Summary/Details
+*   Mini Statement
+*   Detailed statement
+*   Closed Accounts
+*   LIEN Inquiry
+*   Cheque status
+*   Swift/ACH/RTGS Message Download
+*   Loan Payment
+*   Loan Amortization Schedule
+*   Loan disbursement details
+*   Collection statement
+*   Collateral details
+*   Account Balance Graph/Chart
+*   eStatement
+
+**Forgot Password**
+
+*   (A/C No, National ID/Passport No, ATM PIN)
+
+**Forgot User ID**
+
+*   (A/C No, National ID/Passport No, ATM PIN)
+
+**My Profile - Preferences**
+
+*   Account Nickname
+*   View/Update Alert Preferences
+*   Hiding/Showing of Accounts
+
+**Credit Cards:**
+
+*   Latest Statement
+*   Credit Card Payment
+*   Credit Card Activation – Newly issued cards
+*   Blocking Credit Cards – Active cards only
+*   Previous Statement
+*   Scheduled Payment
+*   Transaction Inquiry
+*   Completed Payment
+
+**Transfers (Self, Within Bank Dhofar Accounts, Within Oman, instant transfer, SWIFT)**
+
+*   New Transaction
+*   Standing Instructions
+*   Saved Transfers
+*   Pending Transfers
+*   Completed Transfers
+*   Manage Beneficiary
+
+**Electronic Cards**
+
+*   Unblock Debit Card
+*   Unblock Status
+*   Debit Cards Details
+*   Stop Card
+*   Limit Change (up to 5,000)
+
+**Bill Payments**
+
+*   Omantel (GSM, Landline, Internet)
+*   Ooredoo (GSM, Landline, Internet)
+*   OIFC & ONIC (Water & Electricity)
+*   HAYA WATER
+*   PASI
+*   American Express – Credit Card
+*   AWASER
+
+**Mobile Top up**
+
+*   Omantel
+*   Ooredoo
+*   FRiENDi
+*   Renna
+
+**Service Requests**
+
+*   Cheque Book Request (Online)
+*   Fixed Deposit Account Opening (Online)
+*   Fixed Deposit Foreclosure
+*   Fixed Deposit Preclosure Simulation (Online)
+*   Fixed Deposit Renewal (Online)
+*   Loan Preclosure Simulation (Online)
+*   Loan Request
+*   Pay Order Request
+*   Request for Account Statement
+*   Request for Balance Certificate
+*   Switch Mailing Address (Online)
+*   Application of Supplementary Card
+*   Apply for a New Credit Card
+*   Card Statement
+*   Credit Card Address Change Request
+*   Credit Limit Change
+*   Damaged Card Replacement
+*   Upgrade Card Request
+*   Request Call Back facility
+*   Debit card Limit Change
+
+**Mails**
+
+*   Inbox, Compose, Sent Mails, Trash
+
+**Favorites Services**
+
+*   Add/Modify favorite services
+
+**ATM & CDM Locator**
+
+*   Google API integration for ATM/CDM locator
+
+**Corporate Internet Banking features**
+
+The following services are available to corporate customers through Bank Dhofar Internet banking:
+
+**Login Mode**
+
+*   Password
+*   Password & OTP
+
+**Transaction Mode**
+
+*   Password
+*   OTP
+
+**Accounts (Operative, Deposits, Loans)**
+
+*   Account Summary/Details
+*   Mini statement
+*   Detailed statement
+*   Closed accounts
+*   LIEN Inquiry
+*   Cheque status
+*   Swift/ACH/RTGS Message Download
+*   Loan amortization schedule
+*   Loan disbursement details
+*   Collection statement
+*   Collateral details
+*   Account balance graph/chart
+
+**My Profile - Preferences**
+
+*   Account Nickname
+*   View/Update Alert Preferences
+*   Hiding/Showing of Accounts
+
+**Credit Cards**
+
+*   Latest Statement
+*   Previous Statement
+*   Transaction Inquiry
+*   Completed Payment
+
+**Transfers (Self, Within Bank Dhofar Accounts, Within Oman, SWIFT)**
+
+*   New Transaction
+*   Standing Instructions
+*   Saved Transfers
+*   Pending Transfers
+*   Completed Transfers
+*   Manage Beneficiary
+*   Schedule Transfers
+*   Workflow Approval
+
+**Bill Payments**
+
+*   Omantel (GSM, Landline, Internet)
+*   Ooredoo (GSM, Landline, Internet)
+*   OIFC & ONIC (Water & Electricity)
+*   HAYA WATER
+*   PASI
+*   American Express – Credit Card
+*   Workflow Approval
+
+**File Upload**
+
+*   Bulk Payment - Within BD/ Other Banks in Oman (Bank wise file upload)
+*   Beneficiary Upload
+*   WPS (Private sector)
+*   Bulk Salary processing (Private sector), Workflow Approvals
+
+**B2B**
+
+*   Salary, Payment, Dividends, Swift Workflow Approvals
+
+**Trade Finance**
+
+*   LC opening/Amendments Requests (integrated with core)
+*   view LC, (T-1)
+*   View Bills, (T-1)
+*   View LTR, (T-1)
+*   View Guarantees, (T-1)
+*   View collections, (T-1)
+
+**Credit Facilities**
+
+*   Inquiry
+
+**Service Requests**
+
+*   Cheque Book Request (Online)
+*   Fixed Deposit Preclosure Simulation (Online)
+*   Loan Preclosure Simulation (Online)
+*   Pay Order Request
+*   Request for Account Statement
+*   Request for Balance Certificate
+*   Card Statement
+*   Request Call Back facility
+*   Non-financial workflow applicable
+
+**Mails**
+
+*   Inbox, Compose, Sent Mails, Trash
+
+**Favorites Services**
+
+*   Add/Modify favorite services
+
+**ATM & CDM Locator**
+
+*   Google API integration for ATM/CDM locator
+
+**FAQ - Internet Banking**
+
+*   Click [here](https://www.bankdhofar.com/media/ig5h3hbw/faq.pdf) to read FAQs for Retail Banking Customers
+*   Click [here](https://www.bankdhofar.com/media/3uql4azr/faq-corporate.pdf) to read FAQs for Corporate Banking
+
+**Important Links**
+
+*   [Service Value Charter](https://www.bankdhofar.com/media/kbll00wv/service-value.pdf)
+*   [Tariffs & Charges](https://www.bankdhofar.com/media/0xzbbmd3/tariff_list_en_final_october23.pdf)
+*   [Interest & Deposit Rates](https://www.bankdhofar.com/treasury/deposit-rates/)
+*   [Loans Rates](https://www.bankdhofar.com/treasury/loans-rates/)
+*   [Key Fact Statements](https://www.bankdhofar.com/key-fact-statements/)
+*   [Charter of Consumer Rights & Statement of Consumer Responsibilities](https://www.bankdhofar.com/media/c5yavigo/charter-of-consumer-rights.pdf)
+
+**Legal Information**
+
+*   [Terms & Conditions Governing Accounts](https://www.bankdhofar.com/media/yeynei2q/bankdhofar_tc-governing-accounts-en-1.pdf)
+*   [Website Privacy Policy](https://www.bankdhofar.com/website-privacy-policy/)
+*   [Anti-Fraud](https://www.bankdhofar.com/anti-fraud/)
+*   [Whistleblowing](https://www.bankdhofar.com/whistleblowing/)
+*   [Code of Ethics](https://www.bankdhofar.com/code-of-ethics/)
+*   [Knowledge Centre](https://www.bankdhofar.com/knowledge-centre/)
+
+**Other**
+
+*   [Forms & Downloads](https://www.bankdhofar.com/forms-downloads/)
+*   [Careers](https://mycareer.bankdhofar.com/)
+*   [Contact Us](https://www.bankdhofar.com/contact-us/#)
+*   [News](https://www.bankdhofar.com/news/)
+*   [About Us](https://www.bankdhofar.com/about-us/)
+*   [Customer Information Update (KYC)](https://www.bankdhofar.com/customer-information-update-kyc/)
+
+*   [Investor Relations](https://www.bankdhofar.com/investor-relations/)
+*   [Treasury](https://www.bankdhofar.com/treasury/)
+*   [Value Added Tax (VAT)](https://www.bankdhofar.com/value-added-tax-vat/)
+*   [IBAN](https://www.bankdhofar.com/iban/)
+*   [Islamic Banking](https://www.maisarah-oman.com/) 
+
+**Contact Information**
+
+*   Call us now on 24791111
+*   BankDhofar is licensed and regulated by the Central Bank of Oman.
+*   BankDhofar ©2024
